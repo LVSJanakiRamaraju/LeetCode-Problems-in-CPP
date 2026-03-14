@@ -27,4 +27,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 <!---LeetCode Topics End-->
