@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
