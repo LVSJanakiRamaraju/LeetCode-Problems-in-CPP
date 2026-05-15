@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0396-rotate-function/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Greedy
