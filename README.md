@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0396-rotate-function/) | Medium |
+| [1345-jump-game-iv](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1345-jump-game-iv/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1345-jump-game-iv](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1345-jump-game-iv/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Simulation
@@ -115,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0796-rotate-string/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1345-jump-game-iv](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1345-jump-game-iv/) | Hard |
 <!---LeetCode Topics End-->
