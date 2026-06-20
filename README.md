@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0396-rotate-function/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -138,4 +139,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0658-find-k-closest-elements/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
