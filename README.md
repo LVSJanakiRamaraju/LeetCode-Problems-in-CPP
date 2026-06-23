@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0788-rotated-digits/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
