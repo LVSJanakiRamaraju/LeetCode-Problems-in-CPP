@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +177,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
