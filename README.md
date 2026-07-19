@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Heap (Priority Queue)
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0796-rotate-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -159,10 +161,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
