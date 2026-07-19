@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0396-rotate-function/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1345-jump-game-iv](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1345-jump-game-iv/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3612-process-string-with-special-operations-i/) | Medium |
