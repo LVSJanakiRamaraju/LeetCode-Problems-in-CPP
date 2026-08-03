@@ -2,8 +2,6 @@ class Solution {
 public:
     int maximumWidth(vector<int>& planks) {
 
-        if(planks.size() == 1)  return 1;
-
         unordered_map<int, int>freq;
         for(int x:planks)   freq[x]++;
 
