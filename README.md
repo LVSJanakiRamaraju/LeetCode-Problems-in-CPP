@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0877-stone-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0877-stone-game/) | Medium |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
+| [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1345-jump-game-iv](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1345-jump-game-iv/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## String Matching
@@ -216,4 +220,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
