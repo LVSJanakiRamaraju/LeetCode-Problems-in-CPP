@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1345-jump-game-iv](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1345-jump-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1563-stone-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1563-stone-game-v](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
+| [1563-stone-game-v](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1563-stone-game-v/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## String Matching
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
+| [1563-stone-game-v](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
