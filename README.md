@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2906-construct-product-matrix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-sum-of-even-numbers-after-queries](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
