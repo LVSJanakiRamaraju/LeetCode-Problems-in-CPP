@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1563-stone-game-v](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1927-sum-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1927-sum-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1927-sum-game/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
 | [1563-stone-game-v](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
