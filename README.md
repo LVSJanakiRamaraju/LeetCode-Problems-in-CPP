@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1927-sum-game/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0658-find-k-closest-elements/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Stack
