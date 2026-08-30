@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2906-construct-product-matrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2906-construct-product-matrix/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1927-sum-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Heap (Priority Queue)
