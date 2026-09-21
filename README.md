@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1872-stone-game-viii/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
