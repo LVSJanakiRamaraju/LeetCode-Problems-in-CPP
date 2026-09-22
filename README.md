@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-unique-3-digit-even-numbers](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
