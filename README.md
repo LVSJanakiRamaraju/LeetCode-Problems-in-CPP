@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1563-stone-game-v/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1872-stone-game-viii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1872-stone-game-viii/) | Hard |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1872-stone-game-viii/) | Hard |
 | [2906-construct-product-matrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -255,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
