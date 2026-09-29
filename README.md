@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2906-construct-product-matrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2906-construct-product-matrix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2906-construct-product-matrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1872-stone-game-viii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -369,4 +372,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
