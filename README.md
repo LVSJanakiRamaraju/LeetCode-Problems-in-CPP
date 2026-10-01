@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0115-distinct-subsequences/) | Hard |
 | [0796-rotate-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
