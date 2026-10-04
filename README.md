@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0115-distinct-subsequences/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0115-distinct-subsequences/) | Hard |
 | [0396-rotate-function](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -379,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
