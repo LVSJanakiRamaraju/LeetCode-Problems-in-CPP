@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3871-count-commas-in-range-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
