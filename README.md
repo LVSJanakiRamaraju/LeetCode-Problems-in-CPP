@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1563-stone-game-v/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1927-sum-game/) | Medium |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1872-stone-game-viii/) | Hard |
 | [2906-construct-product-matrix](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2906-construct-product-matrix/) | Medium |
@@ -337,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1140-stone-game-ii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
