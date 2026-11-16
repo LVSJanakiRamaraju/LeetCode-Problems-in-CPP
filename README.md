@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1927-sum-game/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2409-count-days-spent-together/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-sum-of-even-numbers-after-queries](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3612-process-string-with-special-operations-i/) | Medium |
