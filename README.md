@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -475,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
