@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -539,4 +542,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
