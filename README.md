@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2409-count-days-spent-together](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2409-count-days-spent-together/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3360-stone-removal-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/LVSJanakiRamaraju/LeetCode-Problems-in-CPP/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
